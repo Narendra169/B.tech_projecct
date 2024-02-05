@@ -1,1 +1,1 @@
-# B.tech_projecct
+# B.tech_project
